@@ -1,6 +1,6 @@
 {
 	"name": "@localnerve/imagemin-gifsicle",
-	"version": "10.4.1",
+	"version": "10.4.2",
 	"description": "Imagemin plugin for Gifsicle",
 	"license": "MIT",
 	"repository": "localnerve/imagemin-gifsicle",
@@ -28,7 +28,7 @@
 		"optimize"
 	],
 	"dependencies": {
-		"execa": "^9.6.0",
+		"execa": "^9.6.1",
 		"gifsicle": "^7.0.1",
 		"is-gif": "^4.0.1"
 	},
