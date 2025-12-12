@@ -1,6 +1,6 @@
 {
 	"name": "@localnerve/imagemin-gifsicle",
-	"version": "10.4.2",
+	"version": "10.4.3",
 	"description": "Imagemin plugin for Gifsicle",
 	"license": "MIT",
 	"repository": "localnerve/imagemin-gifsicle",
