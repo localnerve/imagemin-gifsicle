@@ -28,11 +28,11 @@ const main = (options = {}) => async input => {
 
 	const {stdout} = await execa(gifsicle, args, {
 		encoding: 'buffer',
-		maxBuffer: Number.POSITIVE_INFINITY,
+		maxBuffer: Infinity,
 		input,
 	});
 
 	return stdout;
 };
 
-export default main;
+export default main; // eslint-disable-line unicorn/default-export-style
