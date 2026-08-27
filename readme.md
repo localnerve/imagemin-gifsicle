@@ -8,13 +8,13 @@
 
 ## Install
 
-```
+```bash
 $ npm install imagemin-gifsicle
 ```
 
 ### Install Prerequisites
 Most latest OS images come with what is required to install the binary, but Macos requires the following:
-```
+```bash
 $ brew install autoconf automake libtool
 ```
 
